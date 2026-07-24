@@ -71,20 +71,49 @@ The following analyses were performed:
 
 5. Customers with a higher purchase frequency represent loyal customers and contribute consistently to overall sales.
 
+
+
 ## Screenshots
 
-Include screenshots of:
+### Top 10 Selling Products (Table)
 
-- Top 10 Selling Products (Table)
-- Top 10 Selling Products (Chart)
-- Top 10 Customers by Revenue (Table)
-- Top 10 Customers by Revenue (Chart)
-- Monthly Sales Trends (Table)
-- Monthly Sales Trends (Chart)
-- Best Performing Categories (Table)
-- Best Performing Categories (Chart)
-- Customer Purchase Frequency (Table)
-- Customer Purchase Frequency (Chart)
+![Top Products Table](top_products_table.png)
+
+### Top 10 Selling Products (Chart)
+
+![Top Products Chart](top_products_chart.png)
+
+### Top 10 Customers by Revenue (Table)
+
+![Top Customers Table](top_customers_table.png)
+
+### Top 10 Customers by Revenue (Chart)
+
+![Top Customers Chart](top_customers_chart.png)
+
+### Monthly Sales Trends (Table)
+
+![Monthly Sales Table](monthly_sales_table.png)
+
+### Monthly Sales Trends (Chart)
+
+![Monthly Sales Chart](monthly_sales_chart.png)
+
+### Best Performing Categories (Table)
+
+![Categories Table](categories_table.png)
+
+### Best Performing Categories (Chart)
+
+![Categories Chart](categories_chart.png)
+
+### Customer Purchase Frequency (Table)
+
+![Purchase Frequency Table](purchase_frequency_table.png)
+
+### Customer Purchase Frequency (Chart)
+
+![Purchase Frequency Chart](purchase_frequency_chart.png)
 
 ## Conclusion
 
