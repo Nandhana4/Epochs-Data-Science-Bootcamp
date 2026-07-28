@@ -1,7 +1,7 @@
 # Customer Segmentation & PCA Analysis – Epochs '26 Assignment 7
 
-**Name:** [Nandhana S]  
-**MUID:** [nandhanas-4@mulearn]  
+**Name:** Nandhana S
+**MUID:** nandhanas-4@mulearn  
 
 ---
 
