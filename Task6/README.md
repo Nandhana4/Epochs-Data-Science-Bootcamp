@@ -1,7 +1,7 @@
 # Customer Churn Prediction – Epochs '26 Assignment 6
 
-**Name:** [Your Full Name]  
-**MUID:** [Your MUID]  
+**Name:** Nandhana S 
+**MUID:** nandhanas-4@mulearn
 
 ---
 
